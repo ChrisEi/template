@@ -62,11 +62,9 @@
     </nav>
     <div class="container">
 	<div class="row">
-		<div class="col-sm-4"></div>
-		<div class="col-sm-4" id="main">
-			<h1>Text is radical</h1>
+		<div class="col-sm-offset-4 col-sm-4 window" id="main">
+			<p><a href="/auth/google">Log In</a></p>
 		</div>
-		<div class="col-sm-4"></div>
 	</div>
     </div>
 
